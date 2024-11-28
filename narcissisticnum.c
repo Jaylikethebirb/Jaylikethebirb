@@ -32,7 +32,7 @@ int main() {
     }
 
     if (sum==numalt) {
-        printf("Number is narcissitic");
+        printf("Number is narcissistic");
     } 
     if (sum!=numalt) {
         printf("Number is not narcissistic");
