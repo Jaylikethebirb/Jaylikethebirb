@@ -14,7 +14,9 @@ colatzconjecture.c
 
 The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1. It concerns sequences of integers in which each term is obtained from the previous term as follows: if a term is even, the next term is one half of it. If a term is odd, the next term is 3 times the previous term plus 1. The conjecture is that these sequences always reach 1, no matter which positive integer is chosen to start the sequence.
 
+<span style="color:white">
 ![Function](https://wikimedia.org/api/rest_v1/media/math/render/svg/0f220f8b8d9aaa456552e64310e8fbe65e356718)
+</span>
 
 
 The code prints the sequence till the repeating 4-2-1 block from the given number.
