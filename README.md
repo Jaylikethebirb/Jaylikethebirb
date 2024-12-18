@@ -7,8 +7,7 @@ In number theory, a narcissistic number(pluperfect digital invariant (PPDI)/Arms
 
 1634= 1^4 + 6^4 + 3^4 + 4^4
 
-The code checks whether the given number is narcissistic or not.
-
+The code checks whether the given number is narcissistic or not.<br>
 
 colatzconjecture.c
 
