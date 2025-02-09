@@ -18,7 +18,7 @@ The conjecture asks whether repeating two simple arithmetic operations will even
 The code prints the sequence till the repeating 4-2-1 block from the given number.
 
 
-**pairofvowels.c**
+# pairofvowels.c
 
 Write a program to count the number of occurrences of any two vowels in succession in a line of text. For example, in the following sentence:
 
